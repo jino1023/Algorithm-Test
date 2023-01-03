@@ -1,4 +1,4 @@
-// 3003 Å·,Äı,·è,ºñ¼ó,³ªÀÌÆ®,Æù
+// 3003 í‚¹,í€¸,ë£©,ë¹„ìˆ,ë‚˜ì´íŠ¸,í°
 import java.util.Scanner;
 class Main {  
   public static void main(String args[]) { 
