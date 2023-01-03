@@ -1,4 +1,4 @@
-// 25089 »õ½Ï
+// 25089 ìžŽìƒˆ
 class Main {
   public static void main(String args[])throws Exception { 
     String s = 
