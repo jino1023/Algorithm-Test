@@ -1,6 +1,6 @@
-// 25083 ìƒˆì‹¹
-class Main {  
-  public static void main(String args[]) { 
+// 25089 »õ½Ï
+class Main {
+  public static void main(String args[])throws Exception { 
     String s = 
        "         ,r'\"7\n"
       +"r`-_   ,'  ,/\n"

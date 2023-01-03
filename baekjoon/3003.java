@@ -1,4 +1,4 @@
-// 3003 í‚¹, í€¸, ë£©, ë¹„ìˆ, ë‚˜ì´íŠ¸, í°
+// 3003 Å·,Äı,·è,ºñ¼ó,³ªÀÌÆ®,Æù
 import java.util.Scanner;
 class Main {  
   public static void main(String args[]) { 
@@ -17,6 +17,8 @@ class Main {
     b = b - in.nextInt();
     kn = kn - in.nextInt();
     p = p - in.nextInt();
+
+    in.close();
     
     System.out.print(k+" ");
     System.out.print(q+" ");
