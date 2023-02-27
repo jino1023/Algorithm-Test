@@ -1,3 +1,4 @@
+#https://school.programmers.co.kr/learn/courses/15007/lessons/121682
 def solution(n, board, position):
   # 이웃을 구하기 위한 상대적 위치
   dx = [-1, -1, -1, 0, 0, 1, 1, 1]
